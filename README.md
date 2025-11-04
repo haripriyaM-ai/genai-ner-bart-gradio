@@ -10,9 +10,6 @@ To design and develop a prototype application for Named Entity Recognition (NER)
 In many text-based applications, it is difficult to automatically identify useful information such as names, places, or organizations from unstructured sentences. To solve this problem, this project develops a Named Entity Recognition (NER) application prototype that can detect and highlight entities like people, locations, organizations, dates, and money from user input text. For example, in the sentence “My name is Andrew and I live in California”, the system identifies Andrew as a person and California as a location.
 
 ### DESIGN STEPS:
-
-
-
 #### STEP 1: Input Text
 Accept user input text through a textbox (e.g., “Chennai is famous for its beaches”).
 #### STEP 2: Entity Detection
@@ -95,6 +92,8 @@ demo.launch(share=True, server_port=int(os.environ['PORT4']))
 <br><br>
 BEFORE MERGING :
 <img width="1000" height="500" alt="Screenshot 2025-10-31 110216" src="https://github.com/user-attachments/assets/c6eaf13f-5fcc-4751-8606-aef6fed9bece" />
+<br>
+<img width="800" height="500" alt="image" src="https://github.com/user-attachments/assets/0194b4d5-9f15-4c89-9f88-41471f2d026b" />
 <br>
 AFTER MERGING :
 <img width="1000" height="500" alt="Screenshot 2025-10-31 110556" src="https://github.com/user-attachments/assets/98599af1-e81d-4d26-8047-5701515fa3d6" />
