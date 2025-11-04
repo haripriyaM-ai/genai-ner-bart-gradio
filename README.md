@@ -94,7 +94,7 @@ BEFORE MERGING :
 <img width="1000" height="500" alt="Screenshot 2025-10-31 110216" src="https://github.com/user-attachments/assets/c6eaf13f-5fcc-4751-8606-aef6fed9bece" />
 <br>
 <img width="800" height="500" alt="image" src="https://github.com/user-attachments/assets/0194b4d5-9f15-4c89-9f88-41471f2d026b" />
-<br>
+<br><br>
 AFTER MERGING :
 <img width="1000" height="500" alt="Screenshot 2025-10-31 110556" src="https://github.com/user-attachments/assets/98599af1-e81d-4d26-8047-5701515fa3d6" />
 <br>
